@@ -58,7 +58,8 @@ ${data.test}
 
 ## Questions
 Please send any questions to [github/${data.creator}](https://github.com/${data.creator}).
-`;
+`
+;
 }
 
 module.exports = generateMarkdown;
